@@ -1,4 +1,4 @@
-# Jeevansaathi: Connecting Hearts❤️
+# Bandhan: Connecting Hearts❤️
 
 # Angular Frontend and Spring API
 
